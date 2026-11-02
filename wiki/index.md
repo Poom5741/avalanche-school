@@ -12,6 +12,10 @@ Wiki articles are compiled from verified `raw/` documents only. Mapping to curri
 | [upgrade-timeline](avalanche/upgrade-timeline.md) | Upgrade timeline | 10 | Etna → Octane → Granite → Helicon with Fuji-first rehearsal; what an ACP is and where to read proposals | 2026-11-02 |
 | [fuji-testnet](avalanche/fuji-testnet.md) | Fuji testnet | 13 | Chain IDs 43113/43114, RPC, explorers, faucet 2 AVAX / 1 drip per 24h + L1 list (DFK/Beam/Dispatch/Echo/PLYR), common Q&A, status page | 2026-11-02 |
 | [tempo-myth](avalanche/tempo-myth.md) | Myth-busting | 12 | Tempo = Stripe/Paradigm (Sep 4, 2025), no Avalanche connection (best-effort negative); ARC myth; subnets→L1s; answer script | 2026-11-02 |
+| [use-cases-2026](ecosystem/use-cases-2026.md) | 2025–2026 usage map | 3 | Trading dominates revenue (perps ≈$2.7–3.0T FY2025; pump.fun $1B by Mar 2026); DeFi $85.35B & peak $127.2B Jan 18, 2026; treasuries ~$15B; stablecoins ~$295B; "app = chain" pattern; both institutional wins and consumer weakness are true | 2026-11-02 |
+| [perps-hyperliquid](ecosystem/perps-hyperliquid.md) | Hyperliquid deep-dive | 3 | HyperCore/HyperEVM; FY2025 ≈ $2.7–3.0T ($633B = Q1 2026 alone, per verify); HYPE airdrop Nov 29, 2024, ATH $97.96 Sept 23, 2026; 56% share caveat; Avalanche economics comparison | 2026-11-02 |
+| [memecoins-launchpads](ecosystem/memecoins-launchpads.md) | Memecoins & launchpads | 3 | pump.fun bonding curve + graduation; $1B cumulative Mar 12, 2026; 2025 revenue $620–664M (DefiLlama revision); ~98.5% die; four.meme/Clanker; no dominant Avalanche launchpad | 2026-11-02 |
+| [competitive-scoreboard](ecosystem/competitive-scoreboard.md) | Avalanche vs the field | 11 | Nov 2, 2026 tables (Avalanche $584M rank #12 vs Solana/ETH/L2s/Hyperliquid); counter-narratives (~81 L1s, ICM, upgrade cadence, FIFA/Apollo/NYSE); honest criticisms; "what it still has to prove" | 2026-11-02 |
 
 Topic sections:
 
