@@ -12,11 +12,11 @@ Track progress locally in `curriculum/progress.md` (gitignored). Record: module,
 
 | # | Module | Teaches | Status |
 |---|---|---|---|
-| 0 | Blockchain mental model | Blocks, transactions, accounts/keys/wallets, what gas pays for, why consensus matters — all by analogy, no CS theory | ⏳ |
-| 1 | BTC & ETH — the two anchors | What each is famous for, PoW vs PoS in plain language, why every comparison starts here | ⏳ |
-| 2 | Modern consensus + ZK (vocabulary level) | PoS variants, rollups, validity proofs — names and one-line meanings only, zero math | ⏳ |
+| 0 | Blockchain mental model | Blocks, transactions, accounts/keys/wallets, what gas pays for, why consensus matters — all by analogy, no CS theory | ✅ |
+| 1 | BTC & ETH — the two anchors | What each is famous for, PoW vs PoS in plain language, why every comparison starts here | ✅ |
+| 2 | Modern consensus + ZK (vocabulary level) | PoS variants, rollups, validity proofs — names and one-line meanings only, zero math | ✅ |
 | 3 | What people actually build & trade | DeFi (DEX/lending), RWA/tokenized treasuries, perps & Hyperliquid, memecoins & pump.fun, stablecoins/payments, gaming — the real 2025–2026 usage map | ✅ |
-| 4 | EVM + token standards | What "EVM-compatible" means; ERC-20/721/1155/4337 and why devs say these constantly | ⏳ |
+| 4 | EVM + token standards | What "EVM-compatible" means; ERC-20/721/1155/4337 and why devs say these constantly | ✅ |
 
 ## Part B — Avalanche in depth
 
