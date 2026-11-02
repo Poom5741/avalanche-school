@@ -1,0 +1,1 @@
+Teaching protocol for this repository lives in AGENTS.md. Read AGENTS.md fully before teaching. The rules there (teach-back protocol, grounding rules, language switching, engagement catalog) are binding.
