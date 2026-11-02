@@ -47,7 +47,7 @@ Reference answer skeleton:
 ## Q6 — "Is Avalanche still relevant? TVL looks dead." (Module 11)
 
 Reference answer skeleton:
-- Both facts are true: consumer metrics are weak (TVL ~$587M, rank #13, Nov 2026) AND the institutional pipeline is the strongest ever (FIFA chain since May 2025 + World Cup 2026 ticketing, Apollo $50M fund, NYSE tokenization tests, ~$1B RWA AUM).
+- Both facts are true: consumer metrics are weak (TVL ~$584M, rank #12, Nov 2026) AND the institutional pipeline is the strongest ever (FIFA chain since May 2025 + World Cup 2026 ticketing, Apollo $50M fund, NYSE tokenization tests, ~$1B RWA AUM). [corrected by verify pass 2026-11-02]
 - The honest framing: Avalanche bet on institutions launching their own L1s; the retail wave (memecoins, perps) went to Solana/Hyperliquid.
 - Give dates and sources, never spin.
 - Wiki ref: [pending — `wiki/avalanche/competitive-scoreboard.md`]
@@ -73,5 +73,5 @@ Reference answer skeleton:
 ## Q10 — "What are people even using blockchains for in 2026?" (Module 3)
 
 Reference answer skeleton:
-- Trading & speculation lead revenue: perps (Hyperliquid ~$633B volume in 2025), memecoins (pump.fun $1B cumulative revenue by Mar 2026, but ~98.5% of tokens die); plus the serious rails: stablecoins (~$295B supply), tokenized treasuries (~$15B), institutional RWA (~$39B total).
+- Trading & speculation lead revenue: perps (Hyperliquid ~$2.7–3.0T volume in 2025 — and $633B in Q1 2026 alone), memecoins (pump.fun $1B cumulative revenue by Mar 2026, but ~98.5% of tokens die); plus the serious rails: stablecoins (~$294B supply), tokenized treasuries (~$15B), institutional RWA (~$39B total). [corrected by verify pass 2026-11-02]
 - Wiki ref: [pending — `wiki/ecosystem/use-cases-2026.md`]
