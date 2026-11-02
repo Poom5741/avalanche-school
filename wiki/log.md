@@ -10,3 +10,14 @@
 - Report: raw/avalanche-fuji/2026-11-02-verify-report-avalanche-fuji-brief.md
 - Wiki compilation for Part B/C protocol articles may now proceed against brief #1
 
+## [2026-11-02] compile | 8 avalanche articles from verified brief #1
+- wiki/avalanche/primary-network-architecture.md
+- wiki/avalanche/l1s-after-etna.md
+- wiki/avalanche/dynamic-gas.md
+- wiki/avalanche/wallets-sponsorship.md
+- wiki/avalanche/icm-crosschain.md
+- wiki/avalanche/upgrade-timeline.md
+- wiki/avalanche/fuji-testnet.md
+- wiki/avalanche/tempo-myth.md
+- All 7 verify corrections applied; UNVERIFIABLE items handled: Helicon inflation projection (~0.5–1 ppt) omitted; Tempo tech vocabulary (Reth/Simplex/TIP-20/~0.6s/Mar 2026) and third-party faucet specifics included but explicitly marked unconfirmed
+- Curriculum modules 5–10, 12, 13 marked ✅ in curriculum/overview.md
